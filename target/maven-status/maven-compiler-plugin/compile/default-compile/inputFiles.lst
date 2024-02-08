@@ -1,0 +1,16 @@
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/repository/CustomerRepository.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/constants/AccountsConstants.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/service/impl/AccountsServiceImpl.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/mapper/CustomerMapper.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/repository/AccountsRepository.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/AccountsApplication.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/mapper/AccountsMapper.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/dto/ErrorResponseDto.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/entity/Customer.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/service/IAccountsService.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/dto/AccountsDto.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/dto/CustomerDto.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/dto/ResponseDto.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/entity/Accounts.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/controller/AccountController.java
+/Users/mebinmathew/Documents/TUS Codebase/accounts/src/main/java/com/tus/accounts/entity/BaseEntity.java
