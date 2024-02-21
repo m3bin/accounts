@@ -1,6 +1,8 @@
+com/tus/accounts/exception/GlobalExceptionHandler.class
 com/tus/accounts/dto/CustomerDto.class
 com/tus/accounts/dto/AccountsDto.class
 com/tus/accounts/service/IAccountsService.class
+com/tus/accounts/exception/CustomerAlreadyExistsException.class
 com/tus/accounts/mapper/CustomerMapper.class
 com/tus/accounts/dto/ResponseDto.class
 com/tus/accounts/entity/Customer.class
