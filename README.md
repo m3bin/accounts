@@ -1,2 +1,2 @@
 # accounts
-Springboot RESTful API project
+Springboot RESTful API project: Accounts Microservice
